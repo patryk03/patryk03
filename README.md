@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I’m currently learning computer science and artificial intelligence at AGH
+
 <!--
 **patryk03/patryk03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
