@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- I’m currently learning computer science and artificial intelligence at AGH
+- I’m currently learning computer science and artificial intelligence at AGH  
+  
 
+[Strona GitHub na narzędzia informatyczne](https://patryk03.github.io/)
 <!--
 **patryk03/patryk03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
